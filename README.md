@@ -1,6 +1,6 @@
 # DEMO-NAME
 
-Coming Soon.
+Coming Soon Solution.
 
 ## What is this demo?
 
@@ -12,7 +12,13 @@ Student should learn how to use useEffect hook.
 
 ## Steps
 
-This is a **general overview** of the steps in this demo. You don't need to add details here.
+1- Create a countdown date state with the date you want to calculate the remainging time to.
+<br/>
+2- Create a result state object with Days,Hours,Minutes and Seconds.
+<br/>
+3- Use useEffect hook and set the Interval to 1000.
+<br/>
+4- Calculate the remaining time.
 
 ## Instructor Notes
 
