@@ -11,7 +11,6 @@ import shape4 from './assets/img/shape-4.svg';
 import shape5 from './assets/img/shape-5.svg';
 import shape6 from './assets/img/shape-6.svg';
 import img1 from './assets/img/img-1.svg';
-import Form from './Components/Form';
 import Counter from './Components/Counter';
 
 function App() {
@@ -38,7 +37,7 @@ function App() {
                 </h1>
 
                 <Counter />
-                <Form />
+
               </div>
             </div>
           </div>
