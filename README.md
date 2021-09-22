@@ -1,10 +1,10 @@
 # DEMO-NAME
 
-Coming Soon.
+Speed Typing.
 
 ## What is this demo?
 
-Coming soon landing page with a countdown timer.
+Speed typing challenge.
 
 ## What are the objectives?
 
@@ -12,13 +12,12 @@ Student should learn how to use useEffect hook.
 
 ## Steps
 
-1- Create a countdown date state with the date you want to calculate the remainging time to.
-<br/>
-2- Create a result state object with Days,Hours,Minutes and Seconds.
-<br/>
-3- Use useEffect hook and set the Interval to 1000.
-<br/>
-4- Calculate the remaining time.
+1. create a seconds state initially at 30
+2. create an interval with one second
+3. explore use effect
+4. use useEffect for timer
+5. clean up
+6. useEffect to check if you won
 
 ## Instructor Notes
 
