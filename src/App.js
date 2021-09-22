@@ -33,7 +33,7 @@ function App() {
             <div class="col-xl-7 col-lg-6 col-md-6 odd-col">
               <div class="content-wrapper">
                 <h1 class="wow fadeInDown" data-wow-delay=".2s">
-                  Coming Soon
+                  How fast can you type?
                 </h1>
 
                 <Counter />
